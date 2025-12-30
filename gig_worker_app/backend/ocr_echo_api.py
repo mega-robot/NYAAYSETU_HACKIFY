@@ -14,7 +14,7 @@ from reportlab.lib.units import mm
 # ---------------------------
 # GEMINI CONFIG
 # ---------------------------
-GEMINI_API_KEY = "AIzaSyDefNzqSnBkkLJkhhq6wvbYhfOE2cArC6o"
+GEMINI_API_KEY = "insert"
 
 PREFERRED_MODELS = [
     "models/gemini-2.5-flash",
